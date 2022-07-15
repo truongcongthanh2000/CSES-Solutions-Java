@@ -1,0 +1,2 @@
+50 src/CSES/IntroductoryProblems/Weird Algorithm.json
+0
